@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/mktmk-dashboard/static/css/main.073c9b0a.css",
-    "main.js": "/mktmk-dashboard/static/js/main.3e610e8f.js",
-    "static/js/787.0e83bdca.chunk.js": "/mktmk-dashboard/static/js/787.0e83bdca.chunk.js",
-    "static/media/logo.svg": "/mktmk-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/mktmk-dashboard/static/css/main.3c5af712.css",
+    "main.js": "/mktmk-dashboard/static/js/main.d426ccb7.js",
     "index.html": "/mktmk-dashboard/index.html",
-    "main.073c9b0a.css.map": "/mktmk-dashboard/static/css/main.073c9b0a.css.map",
-    "main.3e610e8f.js.map": "/mktmk-dashboard/static/js/main.3e610e8f.js.map",
-    "787.0e83bdca.chunk.js.map": "/mktmk-dashboard/static/js/787.0e83bdca.chunk.js.map"
+    "main.3c5af712.css.map": "/mktmk-dashboard/static/css/main.3c5af712.css.map",
+    "main.d426ccb7.js.map": "/mktmk-dashboard/static/js/main.d426ccb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3e610e8f.js"
+    "static/css/main.3c5af712.css",
+    "static/js/main.d426ccb7.js"
   ]
 }
